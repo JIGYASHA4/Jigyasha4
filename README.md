@@ -1,8 +1,11 @@
 # Hi there 👋
 
+![image](https://github.com/JIGYASHA4/Jigyasha4/blob/main/github%20profile.jpg)
+
 ## 💫 About Me:
 I'm Jigyasha Gangwal! 
 I am a Master's student in Software Engineering from NIT Bhopal. Deeply passionate about Full-Stack Application Development. I love bridging the gap between robust backend architecture and seamless frontend user experiences.
+
 🧠 Curiously exploring.
 🔭 Currently Learning and exploring many things, I believe everyday is a learning opportunity.
 ⚡ I enjoy breaking down complex problems into clean, maintainable code.
