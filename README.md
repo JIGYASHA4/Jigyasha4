@@ -5,9 +5,9 @@
 ## 💫 About Me:
 I'm Jigyasha Gangwal! 
 I am a **Master's student in Software Engineering** from **NIT Bhopal**. Deeply passionate about **Full-Stack Application Development**. I love bridging the gap between robust backend architecture and seamless frontend user experiences.
-* 🧠 **Curiously exploring** new technologies and frameworks.
-* 🔭 **Currently learning** and expanding my tech stack—I believe every day is a learning opportunity.
-* ⚡ **Problem Solver** who enjoys breaking down complex challenges into clean, maintainable code.
+* 🧠 **Curiously exploring** new technologies and frameworks. <br>
+* 🔭 **Currently learning** and expanding my tech stack—I believe every day is a learning opportunity. <br>
+* ⚡ **Problem Solver** who enjoys breaking down complex challenges into clean, maintainable code. <br>
 
 ---
 
